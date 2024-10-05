@@ -1,4 +1,4 @@
-# Enironmental Audio Classification
+# Environmental Audio Classification
 
 An audio classification project in which I train a CNN on the dataset [ESC-50](https://github.com/karolpiczak/ESC-50).
 
